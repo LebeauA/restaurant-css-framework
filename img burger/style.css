@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    background-color: #245060;
+}
+
+.title-01 {
+    color: white;
+    border: white solid;
+    border-radius: 10px;
+}
+
+.img-burger-01 {
+    border-radius: 10px;
+    width: 450px;
+    height: 450px;
+}
+
+.img-burger-02 {
+    border-radius: 10px;
+    width: 450px;
+    height: 450px;
+}
+
+.img-burger-03 {
+    border-radius: 10px;
+    width: 450px;
+    height: 450px;
+}
