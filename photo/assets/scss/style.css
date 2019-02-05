@@ -1,0 +1,26 @@
+@media only screen and (min-width: 1080px) and (max-width: 1980px) {
+  body {
+    text-align: center;
+    color: white;
+    background-color: #245060; } }
+.title-01 {
+  font-size: 40px;
+  font-family: monospace; }
+
+.img-burger-01 {
+  border-radius: 10px;
+  width: 450px;
+  height: 450px; }
+
+.img-burger-02 {
+  border-radius: 10px;
+  width: 450px;
+  height: 450px; }
+
+.img-burger-03 {
+  border-radius: 10px;
+  width: 450px;
+  height: 450px;
+  margin: 5px; }
+
+/*# sourceMappingURL=style.css.map */
