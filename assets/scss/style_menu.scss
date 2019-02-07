@@ -1,0 +1,19 @@
+@import "_Nav.scss";
+
+body{
+background: url(../img/burger.jpg) no-repeat center fixed;
+background-size: cover;
+
+}
+li{
+    color: white;
+}
+
+.list-group-item-action{
+    color: aqua;
+}
+img{
+    margin-left:250px ;
+}
+
+@import '_footer.scss';
