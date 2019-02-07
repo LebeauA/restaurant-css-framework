@@ -1,0 +1,26 @@
+body{
+background: url(../img/burger.jpg) no-repeat center fixed;
+background-size: cover;
+padding: 0;
+margin: 0;
+@import '_Nav.scss';
+
+form
+    {
+    padding:80px;
+    color:white;
+    }
+
+    h2
+    {
+    text-align: center;
+    margin-top:40px;
+    color:white;
+    }
+
+    .dropdown
+    {
+    position: relative;
+    }
+    
+@import '_footer.scss';
