@@ -1,0 +1,52 @@
+@media only screen and (max-width: 768px) {
+    .nav{
+        position: fixed;
+        background-color: #245060;
+        justify-content: space-around;
+        .nav-link{
+            color: white;
+            &:hover{
+                background-color: #1c3d49;
+            }
+        }
+        .active{
+            color: black;
+            &:hover{
+                background-color: #245060;
+            }
+         }
+    }
+    .flex-column{
+        height: 100%;
+    }
+    .nav02{
+        display: none;
+    }
+}
+@media only screen and (min-width: 769px) {
+    .nav{
+        position: fixed;
+        background-color: #245060;
+        justify-content: space-around;
+        .nav-item{
+            .nav-link{
+                color: white;
+                &:hover{
+                    background-color: #1c3d49;
+                }
+            }
+            .active{
+                color: black;
+                &:hover{
+                    background-color: #245060;
+                }
+            }
+        }
+    }
+    .flex-sm-row{
+        width: 100%;
+    }
+    .nav01{
+        display: none;
+    }
+}
