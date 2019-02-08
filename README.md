@@ -14,7 +14,7 @@ Réalisation d'un site web "vitrine" pour une chaîne de restaurant fictive.
 
 Beburger est un fast food conçu pour la communauté becode afin de se réunir et passer un bon moment, d’ailleurs, des prix avantageux sont accordés aux membres de la communauté.
 
-## Technologie utilisée :
+## Technologies utilisées :
 
 * Html 5
 * Css 3
@@ -24,15 +24,22 @@ Beburger est un fast food conçu pour la communauté becode afin de se réunir e
 
 ## Méthodologie :
 
-Premier jour : * Choix du sujet
-               * Répartition des taches 
-               * Prise en main de Bootstrap
-               * Maquette du site
+Premier jour :
+
+* Choix du sujet
+* Répartition des taches 
+* Prise en main de Bootstrap
+* Maquette du site
                
-Deuxième jour : * Debut de la "production" du site
-Troisième jour : * Résolution des petits détails techniques
-                 * Fusion des différentes pages.
-                 * Réglage des conflicts. 
+Deuxième jour :
+
+* Debut de la "production" du site
+
+Troisième jour :
+
+* Résolution des petits détails techniques
+* Fusion des différentes pages.
+* Réglage des conflicts. 
 
 ## Date :
 
